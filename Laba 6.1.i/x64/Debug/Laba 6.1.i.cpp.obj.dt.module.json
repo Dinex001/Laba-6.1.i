@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Laba 6.1.i\\x64\\Debug\\Laba 6.1.i.obj",
+            "outputs": [
+                "Laba 6.1.i\\x64\\Debug\\Laba 6.1.i.cpp.obj.dt.module.json",
+                "Laba 6.1.i\\x64\\Debug\\Laba 6.1.i.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
